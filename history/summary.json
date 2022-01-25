@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.fuzzygrim.com",
     "slug": "fuzzy-grim",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 278,
-    "timeDay": 1294,
-    "timeWeek": 607,
-    "timeMonth": 349,
-    "timeYear": 278,
-    "dailyMinutesDown": {
-      "2022-01-24": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 276,
+    "timeDay": 1217,
+    "timeWeek": 618,
+    "timeMonth": 350,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   }
 ]
