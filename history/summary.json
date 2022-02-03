@@ -4,18 +4,19 @@
     "url": "https://www.fuzzygrim.com/",
     "icon": "https://favicons.githubusercontent.com/www.fuzzygrim.com",
     "slug": "fuzzy-grim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 264,
-    "timeDay": 122,
-    "timeWeek": 182,
-    "timeMonth": 337,
-    "timeYear": 264,
+    "time": 262,
+    "timeDay": 145,
+    "timeWeek": 180,
+    "timeMonth": 333,
+    "timeYear": 262,
     "dailyMinutesDown": {
+      "2022-02-03": 0,
       "2022-01-31": 17
     }
   }
