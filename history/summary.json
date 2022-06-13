@@ -40,17 +40,19 @@
     "url": "https://commento.fuzzygrim.com/",
     "icon": "https://favicons.githubusercontent.com/commento.fuzzygrim.com",
     "slug": "commento-fuzzygrim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 627,
-    "timeWeek": 1346,
-    "timeMonth": 1105,
-    "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "time": 1034,
+    "timeDay": 474,
+    "timeWeek": 1218,
+    "timeMonth": 1034,
+    "timeYear": 1034,
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   }
 ]
