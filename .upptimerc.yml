@@ -7,8 +7,6 @@ sites:
     url: https://www.fuzzygrim.com/
   - name: umami.fuzzygrim.com
     url: https://umami.fuzzygrim.com/
-  - name: commento.fuzzygrim.com
-    url: https://commento.fuzzygrim.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
