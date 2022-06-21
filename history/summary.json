@@ -4,10 +4,10 @@
     "url": "https://www.fuzzygrim.com/",
     "icon": "https://favicons.githubusercontent.com/www.fuzzygrim.com",
     "slug": "fuzzygrim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -15,14 +15,16 @@
     "timeWeek": 218,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "umami.fuzzygrim.com",
     "url": "https://umami.fuzzygrim.com/",
     "icon": "https://favicons.githubusercontent.com/umami.fuzzygrim.com",
     "slug": "umami-fuzzygrim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 452,
     "timeMonth": 490,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
