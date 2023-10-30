@@ -4,18 +4,20 @@
     "url": "https://www.fuzzygrim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fuzzygrim.com.ico",
     "slug": "fuzzygrim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 158,
-    "timeWeek": 161,
-    "timeMonth": 150,
+    "timeDay": 186,
+    "timeWeek": 168,
+    "timeMonth": 152,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "umami.fuzzygrim.com",
