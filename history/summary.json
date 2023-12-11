@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 155,
-    "timeWeek": 159,
+    "timeDay": 159,
+    "timeWeek": 153,
     "timeMonth": 146,
-    "timeYear": 148,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "umami-fuzzygrim-com",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 424,
-    "timeWeek": 476,
-    "timeMonth": 459,
+    "timeDay": 375,
+    "timeWeek": 465,
+    "timeMonth": 460,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-12-10": 7,
       "2023-03-13": 17
     }
   }
