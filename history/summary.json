@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fuzzygrim.com.ico",
     "slug": "fuzzygrim-com",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 157,
-    "timeWeek": 192,
-    "timeMonth": 171,
-    "timeYear": 146,
+    "timeDay": 179,
+    "timeWeek": 187,
+    "timeMonth": 173,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 438,
-    "timeWeek": 472,
-    "timeMonth": 467,
-    "timeYear": 495,
+    "timeDay": 444,
+    "timeWeek": 475,
+    "timeMonth": 466,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2023-03-13": 17
     }
