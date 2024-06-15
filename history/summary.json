@@ -22,19 +22,19 @@
     "url": "https://umami.fuzzygrim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/umami.fuzzygrim.com.ico",
     "slug": "umami-fuzzygrim-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 493,
-    "timeDay": 943,
-    "timeWeek": 532,
-    "timeMonth": 476,
+    "timeDay": 777,
+    "timeWeek": 522,
+    "timeMonth": 475,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 7
     }
   }
 ]
