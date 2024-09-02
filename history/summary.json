@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 169,
-    "timeWeek": 181,
-    "timeMonth": 179,
+    "timeDay": 142,
+    "timeWeek": 177,
+    "timeMonth": 175,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/umami.fuzzygrim.com.ico",
     "slug": "umami-fuzzygrim-com",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 511,
-    "timeWeek": 515,
-    "timeMonth": 534,
+    "time": 494,
+    "timeDay": 547,
+    "timeWeek": 501,
+    "timeMonth": 535,
     "timeYear": 496,
-    "dailyMinutesDown": {
-      "2024-09-01": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
