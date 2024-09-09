@@ -22,7 +22,7 @@
     "url": "https://umami.fuzzygrim.com/",
     "icon": "https://icons.duckduckgo.com/ip3/umami.fuzzygrim.com.ico",
     "slug": "umami-fuzzygrim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 489,
     "timeMonth": 480,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   }
 ]
